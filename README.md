@@ -5,3 +5,4 @@ Repositorio para la clase de transformación digital.
 - Juan Antonio Cruz Pérez A01366592
 - Diego Armando Limón de León A01638247
 - José Miguel Figarola Prado A01632557
+- Sebastián Márquez Álvarez A01632483
